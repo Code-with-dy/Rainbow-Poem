@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and Unicorn
 
 Red
 Orange
@@ -9,5 +9,5 @@ Indigo
 Purple
 
 These are the colors of the Rainbow.
-
+And the Unicorn
 
